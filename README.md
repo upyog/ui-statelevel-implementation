@@ -52,5 +52,3 @@ Note: Version may differ based on the latest version.
 ● To run the tests, execute the following maven command : 
 $ mvn test -DdataPath=pathToDataPropertiesFile -DcredsPath=pathToCredentialsPropertiesFile
 
-7. Sample state-wise demo project is in the following Github location for your reference. 
-Note: Github location for the project will be updated once demo is approved and code is pushed to Github repository.
