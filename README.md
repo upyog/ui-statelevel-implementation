@@ -1,4 +1,4 @@
-                     eGov State Level Customization test Implementation
+                     UPYOG State Level Customization test Implementation
 
 1. Create a new maven project for State level UI automation for the respective state. 
 2. Create a new repository in github for the project and push the code to github.
